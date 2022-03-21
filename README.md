@@ -11,7 +11,7 @@
 
 [![twitter]](https://twitter.com/samador9)
 [![linkedin]](https://www.linkedin.com/in/samador9/)
-[![medium]](https://medium.com/samador9/)
+[![medium]](https://samador9.medium.com/)
 [![views]](https://github.com/samador9/github-profile-views-counter)
   
 [![stats]](https://github.com/samador9/github-readme-stats)
