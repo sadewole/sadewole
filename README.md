@@ -12,11 +12,11 @@
 [![twitter]](https://twitter.com/samador9)
 [![linkedin]](https://www.linkedin.com/in/samador9/)
 [![medium]](https://samador9.medium.com/)
-[![views]](https://github.com/samador9/github-profile-views-counter)
+[![views]](https://github.com/sadewole/github-profile-views-counter)
   
-[![stats]](https://github.com/samador9/github-readme-stats)
+[![stats]](https://github.com/sadewole/github-readme-stats)
 
-[![languages]](https://github.com/samador9/github-readme-stats)
+[![languages]](https://github.com/sadewole/github-readme-stats)
   
 </div>
 
