@@ -1,6 +1,9 @@
-<div align="center">
-  
-### Hi there 👋
+### Hi, I'm Samuel Adewole (Samador) 👋
+- Fullstack Web and Mobile Engineer, Community Lead and Mentor, and a Team Player.
+- Experienced in working with Javascript, Typescript, ReactJS, React Native, and NodeJS. I am learning GOlang at the moment.
+- I also write technical articles. You can read my latest articles here: [medium](https://samador9.medium.com/)
+
+#### Stats:
 
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [medium]: https://img.shields.io/static/v1?label=&message=Blog&color=3B3B7A&logo=medium
@@ -17,8 +20,6 @@
 [![stats]](https://github.com/sadewole/github-readme-stats)
 
 [![languages]](https://github.com/sadewole/github-readme-stats)
-  
-</div>
 
 <!--
 **sadewole/sadewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
