@@ -1,7 +1,7 @@
 ### Hi, I'm Samuel Adewole (Samador) 👋
-- Fullstack Web and Mobile Engineer, Community Lead and Mentor, and a Team Player.
-- Experienced in working with Javascript, Typescript, ReactJS, React Native, and NodeJS. I am learning GOlang at the moment.
-- I also write technical articles. You can read my latest articles here: [medium](https://samador9.medium.com/)
+- 💼 Fullstack Web and Mobile Engineer, Community Lead and Mentor, and a Team Player.
+- 👨🏼‍💻 Experienced in working with Javascript, Typescript, ReactJS, React Native, and NodeJS. I am learning GOlang at the moment.
+- ✍🏻 I also write technical articles. You can read my latest articles here: [medium](https://samador9.medium.com/)
 
 #### Stats:
 
