@@ -1,6 +1,6 @@
 ### Hi, I'm Samuel Adewole (Samador) 👋
-- 💼 Senior Fullstack Web and Mobile Engineer, Community Lead and Mentor, and a Team Player.
-- 👨🏼‍💻 Experienced in working with Typescript, ReactJS, Vue, React Native, NestJS and NodeJS. I am learning GOlang at the moment.
+- 💼 Senior Fullstack Web and Mobile Engineer, Cloud Engineer, Community Lead + Mentor, and Open Sourcerer.
+- 👨🏼‍💻 Experienced in working with Typescript, ReactJS, Vue, React Native, NestJS, Docker, Kubernetes and GCP. I am learning GOlang at the moment.
 - ✍🏻 I also write technical articles. You can read my latest articles here: [medium](https://samador9.medium.com/)
 
 #### Stats:
@@ -8,12 +8,14 @@
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [medium]: https://img.shields.io/static/v1?label=&message=Blog&color=3B3B7A&logo=medium
 [twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=3B3B7A&logo=twitter
+[npm]: https://img.shields.io/static/v1?label=&message=NPM&&color=3B3B7A&logo=npm
 [views]: https://komarev.com/ghpvc/?username=sadewole&color=3B3B7A
 [stats]: https://github-readme-stats.vercel.app/api?username=sadewole&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs?username=sadewole&layout=compact&theme=synthwave
 
 [![twitter]](https://twitter.com/samador9)
 [![linkedin]](https://www.linkedin.com/in/samador9/)
+[![npm]](https://www.npmjs.com/~samador/)
 [![medium]](https://samador9.medium.com/)
 [![views]](https://github.com/sadewole/github-profile-views-counter)
   
