@@ -1,5 +1,6 @@
 ### Hi, I'm Samuel Adewole (Samador) 👋
-- 💼 Senior Fullstack Web and Mobile Engineer, Cloud Engineer, Community Lead / Mentor, and Open-sourcerer.
+
+- 💼 Senior Fullstack Web and Mobile Engineer, Cloud Engineer, Community Lead + Mentor, and Open Sourcerer.
 - 👨🏼‍💻 Experienced in working with Typescript, ReactJS, Vue, React Native, NestJS, Docker, Kubernetes and GCP. I am learning GOlang at the moment.
 - ✍🏻 I also write technical articles. You can read my latest articles here: [medium](https://samador9.medium.com/)
 
@@ -15,6 +16,7 @@
 
 [![twitter]](https://twitter.com/samador9)
 [![linkedin]](https://www.linkedin.com/in/samador9/)
+[![npm]](https://www.npmjs.com/~samador/)
 [![medium]](https://samador9.medium.com/)
 [![views]](https://github.com/sadewole/github-profile-views-counter)
   
