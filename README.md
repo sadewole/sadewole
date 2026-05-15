@@ -3,6 +3,8 @@
 - 💼 Senior Fullstack Web and Mobile Engineer, Cloud Engineer, Community Lead + Mentor, and Open Sourcerer.
 - 👨🏼‍💻 Experienced in working with Typescript, ReactJS, Vue, React Native, NestJS, Docker, Kubernetes and GCP. I am learning GOlang at the moment.
 - ✍🏻 I also write technical articles. You can read my latest articles here: [medium](https://samador9.medium.com/)
+- Open-source contributor & maintainer of production-used NPM packages: [Google Places Core](https://www.npmjs.com/package/google-places-core), [React Native
+Toastee](https://www.npmjs.com/package/react-native-toastee), [Antigravity Sync](https://open-vsx.org/extension/samador/antigravity-settings-sync)
 
 #### Stats:
 
